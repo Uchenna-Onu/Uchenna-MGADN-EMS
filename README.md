@@ -1,7 +1,7 @@
 Smart Grid Analytics and Optimization
 This repository contains four advanced projects focused on voltage prediction and energy storage dispatch optimization for smart grids. These codes integrate machine learning models and mixed-integer optimization techniques for IEEE 123-bus and UNIFEI test systems, addressing challenges in voltage estimation, reverse power flow (RPF) utilization, and ampacity-constrained storage operation.
 Repository Structure
-📂 SmartGrid-Analytics
+📂 Uchenna-MGADN-EMS
 ├── IEEE123PCC_Regression_Used_Final_version.ipynb       # IEEE 123-Bus Voltage Prediction
 ├── IEEE123_RPF_Driven_Storage_MILP.ipynb                # IEEE 123-Bus Storage Dispatch Optimization
 ├── UNIFEIPCC_Regression_Used_Final_version.ipynb        # UNIFEI Voltage Prediction
