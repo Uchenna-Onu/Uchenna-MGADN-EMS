@@ -1,0 +1,11 @@
+{
+    "Platform": "Windows",
+    "Platform-Version": "10.0.22631",
+    "Processor": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",
+    "CPU Cores": 6,
+    "Logical CPUs": 12,
+    "RAM (GB)": 31.73,
+    "GPU Available": false,
+    "GPU Name": "None",
+    "Training Time (s)": 59.9
+}

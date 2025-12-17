@@ -1,0 +1,57 @@
+{
+  "objective_terms": {
+    "term_charge_sum_kWh_equiv": 27826142.369,
+    "term_discharge_sum_USD": 177952.14727245,
+    "objective_value": 28004094.516272448
+  },
+  "energy": {
+    "E_charged_MWh": 27826.142368999997,
+    "E_discharged_MWh": 25095.8020252725,
+    "usable_capacity_kWh": 960666.4409246376,
+    "cycles_proxy": 28.965456878266142,
+    "SoC_stats": {
+      "E_kWh_min": 10000.0,
+      "E_kWh_max": 970666.4409246376,
+      "E_kWh_mean": 160047.74490008023,
+      "E_kWh_std": 218015.30925591316
+    }
+  },
+  "policy_compliance": {
+    "violations": {
+      "charge_when_RPF0_count": 0,
+      "charge_exceed_TotalRPF_count": 0,
+      "discharge_cap_active_violations_count": 0
+    },
+    "outside_policy_discharge_info_count": 2113
+  },
+  "ampacity": {
+    "violations_count": 0,
+    "binding_hours_count": 1959,
+    "margin_stats_kW": {
+      "margin_min_kW": -1.4551915228366852e-11,
+      "margin_mean_kW": 7565.147545609243,
+      "margin_max_kW": 11030.244564745051
+    }
+  },
+  "caps_and_mutex": {
+    "at_Pcmax_hours": 0,
+    "at_Pdmax_hours": 0,
+    "mutex_violations_count": 0
+  },
+  "utilization_percent": {
+    "pct_charge": 28.39041095890411,
+    "pct_discharge": 40.78767123287671,
+    "pct_idle": 30.82191780821918
+  },
+  "peak_impact": {
+    "base_abs_peak_kW": 31825.0,
+    "net_abs_peak_kW": 11060.893906577636,
+    "peak_reduction_kW": 20764.106093422364
+  },
+  "counts": {
+    "n_hours": 8760,
+    "n_charge_hours": 2487,
+    "n_discharge_hours": 3573,
+    "n_idle_hours": 2700
+  }
+}
